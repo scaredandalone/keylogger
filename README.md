@@ -19,3 +19,7 @@ This Python script is a basic keylogger designed to capture keystrokes on a syst
 
 - This keylogger is intended for educational purposes only.
 - While the script includes detection for Windows virtual machines, it has not been tested in this environment.
+
+#### Testing:
+- The Script executes and begins capture on a Physical Machine running Windows 10.
+- The Script executes and deletes itself on a Virtual Machine running Debian Linux.
