@@ -22,4 +22,4 @@ This Python script is a basic keylogger designed to capture keystrokes on a syst
 
 #### Testing:
 - The Script executes and begins capture on a Physical Machine running Windows 10.
-- The Script executes and deletes itself on a Virtual Machine running Debian Linux.
+- The Script executes and deletes itself on a VM Ware Virtual Machine running Debian Linux.
